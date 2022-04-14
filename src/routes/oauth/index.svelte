@@ -14,7 +14,7 @@
 
 <main class="root">
 	<div class="container">
-		<img class="logo" src="assets/images/icon_512.png" alt="" />
+		<img class="logo" src="assets/icon_512.png" alt="" />
 		<h1>RainCloud</h1>
 		<p>Give me a second while I get your tokens...</p>
 	</div>
