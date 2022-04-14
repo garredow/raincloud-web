@@ -59,7 +59,7 @@
 
 <main class="root">
 	<div class="container">
-		<img class="logo" src="assets/icon_512.png" alt="" />
+		<img class="logo" src="icon_512.png" alt="" />
 
 		<h1>RainCloud</h1>
 		{#if state === State.SignedOut}
